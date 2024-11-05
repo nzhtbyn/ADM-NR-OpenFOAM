@@ -23,3 +23,16 @@ $\bullet$ Copy the folder _ADM_NR_diskBased_ to your work directory, and compile
  `wmake`
  
 $\bullet$ Add the library name to _controlDict_ and update the name in _fvOptions_.
+
+
+# How to cite
+Please, cite this library as:
+```
+@misc{ADMNR_OF,
+  author = {Zehtabiyan-Rezaie, N.},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/nzhtbyn/ADM-NR-OpenFOAM}}
+}
+```
