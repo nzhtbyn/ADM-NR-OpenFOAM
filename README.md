@@ -1,13 +1,9 @@
 <!--  [![Compatibility: OFver](https://img.shields.io/badge/Compatible_with-OpenFOAM.v2112-lightblue.svg)]()  -->
 [![Paper: Author](https://img.shields.io/badge/Author-green.svg)](https://sites.google.com/view/zehtabiyan/home)
-[![Compatibility: OFver](https://img.shields.io/badge/Compatible_with-OpenFOAM.v2312-lightblue.svg)]()
+[![Compatibility: OFver](https://img.shields.io/badge/Compatible_with-OpenFOAM.v2012/v2112/v2312-lightblue.svg)]()
 
 # Description
 Enabling the momentum-source calculator of the actuator-disk model without rotation (ADM-NR) in OpenFOAM to calculate the source terms based on the disk-averaged velocity.
-
-
-# Target platform
-The code has been rigorously tested and verified to be fully compatible with OpenFOAM v2012, v2112, and v2312, ensuring its smooth integration and reliable performance.
 
 # How to set the model
 1- Download the source code.
