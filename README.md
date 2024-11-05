@@ -1,5 +1,9 @@
 <!--  [![Compatibility: OFver](https://img.shields.io/badge/Compatible_with-OpenFOAM.v2112-lightblue.svg)]()  -->
 [![Paper: Author](https://img.shields.io/badge/Author-green.svg)](https://sites.google.com/view/zehtabiyan/home)
+[![Compatibility: OFver](https://img.shields.io/badge/Compatible_with-OpenFOAM.v2312-lightblue.svg)]()
+
+# Description
+The developed solver handles governing equations in mixed convection heat transfer including continuity, momentum, energy, and electrical equations. The developed solver is able to handle the coupled equations. For a comprehensive understanding of this solver, see this [publication](https://doi.org/10.1016/j.elstat.2019.103415).
 
 # How to set the model
 1- Download the source code.
