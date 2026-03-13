@@ -1,2 +1,0 @@
-ADM_NR_diskBased.C
-LIB = $(FOAM_USER_LIBBIN)/libfor_myfvOptions
